@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+envoyer une escouade de soldats,5,-5,10,-2,-5,5
+payer une prime aux chasseurs locaux,10,-15,15,0,0,5
+ignorer le problème,-10,0,-20,-5,0,-10
+organiser une grande battue royale,15,-10,10,0,-2,15

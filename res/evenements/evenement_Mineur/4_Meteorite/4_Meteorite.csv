@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+la déclarer sacrée,10,0,0,0,0,10
+la vendre à un alchimiste,-5,20,0,0,0,-5
+l'enterrer pour éviter la panique,-5,-5,0,0,0,0
+forger une épée avec,0,-10,0,0,5,15

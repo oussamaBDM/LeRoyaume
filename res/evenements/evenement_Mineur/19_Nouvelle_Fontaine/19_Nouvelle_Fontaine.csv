@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+approuver le projet,15,-20,0,0,0,15
+demander un modèle en bois,5,-5,0,0,0,5
+refuser par économie,-10,10,0,0,0,-5
+faire payer la fontaine aux nobles,-5,15,0,0,0,-10

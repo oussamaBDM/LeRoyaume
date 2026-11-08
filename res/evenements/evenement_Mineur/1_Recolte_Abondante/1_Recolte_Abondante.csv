@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+stocker les surplus,-10,+80,+100,+20,0,+10
+vendre au marché noir,+5,+120,+50,-10,0,0
+distribuer aux pauvres,+40,+30,+80,+30,+5,+20
+laisser pourrir les stocks,-50,-40,-60,0,0,-30

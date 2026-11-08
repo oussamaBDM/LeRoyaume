@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+envoyer des tonneaux d'eau,10,-10,-10,0,-2,10
+baisser leurs impôts,15,-15,0,0,0,5
+prier pour la pluie,5,0,-5,0,0,5
+ne rien faire,-15,0,-10,-5,0,-10

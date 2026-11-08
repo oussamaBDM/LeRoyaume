@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+exiger une forte taxe d'entrée,-5,15,0,0,0,-5
+le laisser entrer gratuitement,10,0,0,0,0,5
+confisquer sa marchandise pour la cour,-10,20,5,0,0,-10
+le chasser du royaume,-5,0,0,0,0,-5

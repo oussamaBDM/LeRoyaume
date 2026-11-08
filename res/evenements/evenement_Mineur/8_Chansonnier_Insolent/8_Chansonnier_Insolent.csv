@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+rire avec la foule,15,0,0,0,0,-10
+l'embaucher à la cour,5,-5,0,0,0,5
+le jeter au cachot,-10,0,0,-1,0,10
+lui couper la langue,-15,0,0,-1,-5,5

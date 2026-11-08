@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+organiser un grand tournoi,15,-15,-5,0,5,10
+autoriser un tournoi modeste,5,-5,0,0,2,5
+interdire le tournoi,-10,0,0,0,-5,-5
+taxer les participants,-5,10,0,0,0,0

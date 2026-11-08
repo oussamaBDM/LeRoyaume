@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+l'adopter à la cour,10,-10,0,1,0,15
+le confier à l'orphelinat royal,5,-5,0,1,0,5
+le donner à une famille de paysans,0,0,0,1,0,0
+demander aux gardes de s'en débarrasser,-20,0,0,-1,-5,-15

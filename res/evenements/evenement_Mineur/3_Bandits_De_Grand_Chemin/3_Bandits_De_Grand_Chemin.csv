@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+envoyer la garde royale,-5,-5,0,0,-5,10
+payer des mercenaires,0,-15,0,0,0,5
+ignorer les plaintes,-10,0,-5,-2,0,-10
+leur offrir un pardon royal,5,0,0,2,5,-15

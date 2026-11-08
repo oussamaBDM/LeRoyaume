@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+donner le chien au plus riche,0,10,0,0,-5,5
+donner le chien au meilleur chasseur,5,0,0,0,5,-5
+prendre le chien pour vous-même,-10,0,0,0,0,10
+ordonner l'abattage de l'animal,-15,0,0,0,0,-10

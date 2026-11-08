@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+les accueillir chaleureusement,15,-5,-5,2,0,5
+leur faire payer un droit,-5,15,0,0,0,0
+confisquer leurs animaux,-10,0,10,0,0,-15
+les chasser par peur des maladies,-5,0,0,-2,0,-5

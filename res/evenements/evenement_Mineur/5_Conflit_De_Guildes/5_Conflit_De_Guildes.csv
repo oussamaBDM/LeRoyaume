@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+soutenir les forgerons,-5,10,0,0,5,5
+soutenir les charpentiers,-5,5,10,0,0,5
+les départager par un duel,10,0,0,-1,0,10
+arrêter les chefs des deux camps,-10,15,0,-2,5,-5
