@@ -1,0 +1,5 @@
+﻿response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+Distribuer les réserves,-10,-10,-50,-5,-5,5
+Rationner la nourriture,-20,-10,-25,-10,-10,-5
+Faire travailler les riches,-10,10,-25,-15,-10,2
+Ne rien faire,-75,0,0,-50,-50,-20
