@@ -1,0 +1,40 @@
+  ==================================================
+                 REGLES DU ROYAUME
+  ==================================================
+ 
+  LES SIX JAUGES
+ 
+    Bonheur      Le moral de votre peuple
+    Or           Le tresor royal
+    Nourriture   Les stocks des greniers
+    Population   Le nombre de vos sujets
+    Armee        Votre force militaire
+    Prestige        La salubrite du royaume
+ 
+  Chaque jauge va de 0 a 100 et demarre a 50.
+  Si l'une d'elles tombe a 0, votre regne s'arrete (via un évènement fixe, déterminé selon la jauge qui est arrive a 0, exemple, si population a 0, une guerre se déclenche dans le tour qui suit, affaiblit énormément le royaume et kidnappe le roi bla bla... bref fin du jeu
+ 
+  ==================================================
+ 
+    LE TOUR DE JEU
+ 
+    1. Un evenement se presente devant vous
+    2. On tranche entre plusieurs decisions
+    3. Les jauges bougent en consequence
+    4. Le royaume consomme, produit, vieillit et peut s'affaiblir.
+ 
+  ==================================================
+ 
+   LES SAISONS :
+
+	Tout les 25 jours la saisonn change, au début du jour 0, elle est annonce et choisit aléatoirement, chaque saison implique des malus pour des jauges bien définis, exemple, l'automne a pour conséquence de baisser la jauge de bonheur de la population, l'été de l'augmente, et le printemps d'augmenter celle de nourriture, l'hiver c'est moins de bouffe, moins de nourriture (implique les systèmes de coefficient)
+ 
+  ==================================================
+ 
+  VICTOIRE
+ 
+  Survivre cent tours. 
+ 
+  ==================================================
+
+Tout s'accompagne évidemment de texte dans le role-play pour le lore
