@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+fermer les deux tavernes,-15,0,0,0,0,5
+taxer la bière brune,-5,15,0,0,0,0
+organiser un concours de buveurs,15,0,-10,0,-5,5
+soutenir la taverne "Au Sanglier",5,5,0,0,0,-5

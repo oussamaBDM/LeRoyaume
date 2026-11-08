@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+financer les travaux,15,-15,0,2,0,10
+envoyer l'armée pour creuser,5,0,0,1,-5,5
+leur dire de boire de la bière,-5,0,-5,-2,0,-10
+taxer l'accès au nouveau puits,-10,10,0,0,0,-15

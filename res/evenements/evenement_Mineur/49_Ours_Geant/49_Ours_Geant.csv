@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+envoyer des chasseurs,10,-5,5,0,-2,10
+mettre sa tête à prix,5,-15,0,0,0,5
+l'ignorer c'est la nature,-10,0,-10,-2,0,-5
+tenter de l'apprivoiser,5,-5,0,-1,0,15

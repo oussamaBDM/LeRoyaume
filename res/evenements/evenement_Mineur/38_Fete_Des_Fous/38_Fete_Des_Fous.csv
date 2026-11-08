@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+accepter de bon cœur,20,0,-5,0,0,5
+interdire la mascarade,-15,0,0,0,5,-10
+truquer l'élection,5,-5,0,0,0,-5
+exécuter le faux roi,-20,0,0,-1,0,-20

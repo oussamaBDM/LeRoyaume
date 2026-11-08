@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+accepter leur demande,15,-15,0,0,0,5
+refuser catégoriquement,-15,10,0,0,0,-5
+arrêter les meneurs,-20,0,0,-2,5,-10
+trouver un compromis,5,-5,0,0,0,5

@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+garder les bijoux,0,20,0,0,0,-5
+les vendre au marché,0,15,0,0,0,0
+ouvrir une enquête,-5,-10,0,0,0,10
+les jeter à la rivière par prudence,5,-20,0,0,0,5

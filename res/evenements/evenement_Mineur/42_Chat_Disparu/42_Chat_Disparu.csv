@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+envoyer la garde royale,15,-10,0,0,-5,-10
+payer des enfants des rues,5,-5,0,0,0,5
+remplacer le chat en secret,-10,-15,0,0,0,5
+dire qu'il est parti à la ferme,-15,0,0,0,0,-5

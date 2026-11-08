@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+payer la somme,5,-15,0,0,0,15
+refuser poliment,0,0,0,0,0,-5
+l'obliger à peindre gratuitement,-10,0,0,0,0,-15
+lui offrir des terres à la place,0,-10,0,0,0,10

@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+le vendre au marchand,0,20,0,0,0,-5
+le garder pour la fauconnerie,5,-5,0,0,0,10
+le relâcher,10,0,0,0,0,5
+le faire rôtir pour le dîner,-10,0,5,0,0,-10

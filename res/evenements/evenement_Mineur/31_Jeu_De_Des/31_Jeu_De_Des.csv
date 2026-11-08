@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+interdire le jeu,-10,0,0,0,10,5
+taxer les tables de jeu,-5,15,0,0,-5,0
+jouer avec eux,10,-10,0,0,-10,-5
+tricher pour gagner leur solde,0,15,0,0,-15,-15

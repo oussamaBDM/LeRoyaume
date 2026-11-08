@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+le gifler publiquement,10,0,0,0,0,15
+rire de sa remarque,5,0,0,0,0,-5
+l'expulser du royaume,-5,0,0,0,-5,10
+verser de l'arsenic dans son vin,-5,0,0,-1,0,5

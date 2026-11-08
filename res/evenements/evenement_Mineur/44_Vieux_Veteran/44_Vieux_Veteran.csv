@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+lui offrir une pension,10,-10,0,0,5,10
+lui donner un poste de garde,5,-5,0,0,2,5
+le chasser sans ménagement,-10,0,0,0,-5,-10
+l'inviter à raconter ses histoires,15,-5,-5,0,5,5

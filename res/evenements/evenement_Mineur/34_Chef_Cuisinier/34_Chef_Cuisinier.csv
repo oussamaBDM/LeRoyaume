@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+lui accorder l'augmentation,0,-10,10,0,0,0
+le jeter aux cachots,-5,0,-10,0,0,5
+cuisiner vous-même,10,0,-5,0,0,15
+le remplacer par un paysan,-5,5,-15,0,0,-10

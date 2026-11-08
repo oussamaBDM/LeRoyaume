@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+organiser une messe d'apaisement,10,-10,0,0,0,10
+doubler la garde des cryptes,-5,-5,0,0,5,5
+ridiculiser le garde,-10,0,0,0,-10,-5
+sceller les cryptes,-5,-5,0,0,0,-10

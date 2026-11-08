@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+les bannir du royaume,-10,0,0,-5,0,5
+les laisser faire,5,0,0,0,0,-10
+les taxer pour leurs chants,0,15,0,0,0,-5
+envoyer l'inquisition,-15,-5,0,-10,5,10

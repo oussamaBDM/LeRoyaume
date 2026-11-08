@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+autoriser le duel,5,0,0,-1,-2,5
+l'interdire formellement,-5,0,0,0,0,10
+bannir la servante,-10,0,0,-1,0,-5
+les marier à d'autres,0,-5,0,0,-1,0

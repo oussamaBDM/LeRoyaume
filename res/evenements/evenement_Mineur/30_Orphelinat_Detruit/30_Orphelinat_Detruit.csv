@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+financer la reconstruction,15,-15,0,0,0,15
+les loger dans les casernes,-5,-5,0,0,-5,5
+demander à l'Église de les prendre,0,0,0,0,0,5
+les ignorer,-20,0,0,-5,0,-20

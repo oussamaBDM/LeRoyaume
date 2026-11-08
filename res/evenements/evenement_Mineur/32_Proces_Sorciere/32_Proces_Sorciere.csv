@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+la brûler vive,-5,0,0,-1,0,5
+la libérer et la protéger,-10,0,0,0,-5,-5
+l'engager comme guérisseuse,5,-5,5,0,0,10
+la bannir,0,0,0,-1,0,0

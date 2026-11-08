@@ -1,0 +1,5 @@
+response_text,happiness_change,gold_change,food_change,population_change,army_change,prestige_change
+céder à l'Église,-10,0,0,0,0,10
+refuser l'interdiction,10,0,0,0,0,-15
+porter du violet vous-même,5,0,0,0,0,5
+taxer la teinture violette,-5,15,0,0,0,0
